@@ -138,3 +138,21 @@ server {
 
 ## Odoo Coffe Applications 
 ![image](https://user-images.githubusercontent.com/67875720/176213106-ef6a4c14-3cea-404d-b1f7-ae9a76912840.png)
+
+## POS (Point Of Sales)
+![image](https://user-images.githubusercontent.com/67875720/176213443-08e8854e-13c8-4d59-bf55-b86401d0b2e2.png)
+
+![image](https://user-images.githubusercontent.com/67875720/176213550-40f7e542-9b26-41fb-9880-1101866900db.png)
+
+## Gestion d'achat 
+![image](https://user-images.githubusercontent.com/67875720/176213679-03982245-9d6e-4e77-ab0d-b1a0d0035703.png)
+
+## inventaire 
+
+![image](https://user-images.githubusercontent.com/67875720/176214138-1a4e14e7-c569-4a8d-821d-a5c070f2f564.png)
+
+## Production 
+
+![image](https://user-images.githubusercontent.com/67875720/176214275-e9c73242-186f-423a-9b36-1e07e722b098.png)
+
+
