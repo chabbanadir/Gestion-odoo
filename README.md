@@ -136,3 +136,5 @@ server {
 * odoo:14.0
 * postgres:13
 
+## Odoo Coffe Applications 
+![image](https://user-images.githubusercontent.com/67875720/176213106-ef6a4c14-3cea-404d-b1f7-ae9a76912840.png)
