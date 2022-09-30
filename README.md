@@ -15,7 +15,7 @@ Install
 then run:
 
 ``` bash
-curl -s https://raw.githubusercontent.com/Khalidserbout/cafe/master/run.sh | sudo bash -s odoo-one 10014 20014
+curl -s https://raw.githubusercontent.com/chabbanadir/Gestion-odoo/master/run.sh | sudo bash -s odoo-one 10014 20014
 ```
 
 to set up first Odoo instance @ `localhost:10014` (default master password: `8sW8t2wFAgxC3dpk`)
@@ -23,7 +23,7 @@ to set up first Odoo instance @ `localhost:10014` (default master password: `8sW
 and
 
 ``` bash
-curl -s https://raw.githubusercontent.com/Khalidserbout/cafe/master/run.sh | sudo bash -s odoo-two 11014 21014
+curl -s https://raw.githubusercontent.com/chabbanadir/Gestion-odoo/master/run.sh | sudo bash -s odoo-two 11014 21014
 ```
 
 to set up another Odoo instance @ `localhost:11014` (default master password: `8sW8t2wFAgxC3dpk`)
@@ -64,7 +64,7 @@ docker-compose up -d
 **If you get the permission issue**, change the folder permission to make sure that the container is able to access the directory:
 
 ``` sh
-$ git clone https://github.com/Khalidserbout/cafe
+$ git clone https://github.com/chabbanadir/Gestion-odoo
 $ sudo chmod -R 777 addons
 $ sudo chmod -R 777 etc
 $ mkdir -p postgresql
